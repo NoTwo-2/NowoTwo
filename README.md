@@ -13,25 +13,16 @@
 ## School.
 
 #### College.
-- Classes keep me busy.
-- Projects will go here.
-- Group or otherwise.
-- They taught me c++
+- They taught me C++ and I use Python for projects
 
 #### Club.
-- At college also.
-- Its a small one.
 - I made some unity games for a game jam they have twice a year.
 - I made 4 of them.
-- I might post them in one big repo.
-- (Write that down).
 
 ## Work.
 
-#### As an intern.
-- At a small, but established company.
-- They had me do cloud infrastructure development.
-- Used AWS and Terraform to deploy some stuff.
+#### Intern.
+- Used AWS and Terraform to deploy time related applications.
 - Wrote PowerShell boot scripts for the instances in the cloud.
 
 ## Other creative endevours:
